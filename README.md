@@ -1,2 +1,2 @@
 # devour-it
-Express &amp; Handle App
+Express &amp; Handlebar App
